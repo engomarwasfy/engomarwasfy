@@ -1,4 +1,17 @@
-```markdown id="9x4nke"
+## 📈 My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engomarwasfy&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=engomarwasfy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=engomarwasfy&theme=dark)](https://git.io/streak-stats)
+
+![Metrics](https://metrics.lecoq.io/engomarwasfy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=engomarwasfy)
+
+---
+
 # Hi there, I'm Omar Wasfy 👋
 
 <div align="center">
@@ -49,40 +62,10 @@
 
 ---
 
-# 📈 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engomarwasfy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Omar%20Wasfy%20GitHub%20Stats"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engomarwasfy&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css,jupyter%20notebook"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=engomarwasfy&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=engomarwasfy&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-</p>
-
----
-
 ## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=engomarwasfy&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-## ⚡ Detailed Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/engomarwasfy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&introduction=1&isocalendar=1&lines=1&activity=1&achievements=1&followup=1&people=1&config.timezone=Africa/Cairo"/>
 </p>
 
 ---
@@ -110,4 +93,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-```
